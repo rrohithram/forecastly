@@ -1,16 +1,5 @@
-# minimal_weather_app
+# Forecastly
 
-A new Flutter project.
+A minimal weather app made using Flutter and OpenWeatherMap's API key. It is also responsive. Based on the theme of the device, the app theme also changes.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Use the ```git clone https://github.com/rrohithram/forecastly``` command to clone this project!
