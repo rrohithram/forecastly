@@ -5,4 +5,4 @@ Animations are from LottieFiles!
 
 Use the ```git clone https://github.com/rrohithram/forecastly``` command to clone this project!
 
-Feel free to add your own API key!
+Feel free to add your own API key in the ```WeatherMainPage.dart``` file!
