@@ -1,7 +1,7 @@
 name: Build Flutter APK
 
 on:
-  workflow_dispatch: # lets you trigger manually
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.22.0' # or stable
+          flutter-version: '3.24.3' # 🔥 stable with Dart 3.5.x
 
       - name: Install dependencies
         run: flutter pub get
